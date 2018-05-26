@@ -1,3 +1,4 @@
-test/
-test2.txt
-.gitignore
+.idea
+.idea/
+.DS_Store
+.DS_Store/
